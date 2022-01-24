@@ -37,7 +37,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon aws)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
 
 ### Mobile
 ![iOS](https://img.shields.io/badge/-iOS-181717?style=flat-square&logo=apple)
