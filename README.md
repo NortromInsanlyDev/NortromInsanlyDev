@@ -10,11 +10,11 @@
 ## ⚡ Technologies
 
 ### BlockChain
-![Ethereum](https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp){:height="36px" width="36px"}
-![Solidity](https://soliditylang.org/images/logo.svg | width=100){:height="36px" width="36px"}
-![Vyper](https://raw.githubusercontent.com/vyperlang/vyper/master/logo/vyper-logo-transparent.svg?sanitize=true){:height="36px" width="36px"}
-![Hardhat](https://hardhat.org/favicon-32x32.png){:height="36px" width="36px"}
-![Truffle](https://trufflesuite.com/assets/favicon-32x32.png){:height="36px" width="36px"}
+![Ethereum](https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp)
+![Solidity](https://soliditylang.org/images/logo.svg)
+![Vyper](https://raw.githubusercontent.com/vyperlang/vyper/master/logo/vyper-logo-transparent.svg?sanitize=true)
+![Hardhat](https://hardhat.org/favicon-32x32.png)
+![Truffle](https://trufflesuite.com/assets/favicon-32x32.png)
 
 
 ### Frontend
