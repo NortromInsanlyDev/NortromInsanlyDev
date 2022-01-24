@@ -13,8 +13,6 @@
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Hardhat](https://hardhat.org/favicon-32x32.png)
-![Truffle](https://trufflesuite.com/assets/favicon-32x32.png)
 
 
 ### Frontend
