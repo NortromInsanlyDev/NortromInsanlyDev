@@ -10,12 +10,12 @@
 ## ⚡ Technologies
 
 ### BlockChain
-![Ethereum](https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp)
-![Solidity](https://soliditylang.org/images/logo.svg)
-![Vyper](https://raw.githubusercontent.com/vyperlang/vyper/master/logo/vyper-logo-transparent.svg?sanitize=true)
-![Hardhat](https://hardhat.org/favicon-32x32.png)
-![Truffle](https://trufflesuite.com/assets/favicon-32x32.png)
-![dapptools]
+![Ethereum](https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp | width=100)
+![Solidity](https://soliditylang.org/images/logo.svg | width=100)
+![Vyper](https://raw.githubusercontent.com/vyperlang/vyper/master/logo/vyper-logo-transparent.svg?sanitize=true | width=100)
+![Hardhat](https://hardhat.org/favicon-32x32.png | width=100)
+![Truffle](https://trufflesuite.com/assets/favicon-32x32.png | width=100)
+
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
