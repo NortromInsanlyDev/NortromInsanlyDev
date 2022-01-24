@@ -11,8 +11,8 @@
 
 ### BlockChain
 ![Ethereum](https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp)
-![Solidity](https://soliditylang.org/images/logo.svg)
-![Vyper](https://raw.githubusercontent.com/vyperlang/vyper/master/logo/vyper-logo-transparent.svg?sanitize=true)
+![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?style=flat-square&logo=solidity&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Hardhat](https://hardhat.org/favicon-32x32.png)
 ![Truffle](https://trufflesuite.com/assets/favicon-32x32.png)
 
@@ -43,4 +43,4 @@
 ![iOS](https://img.shields.io/badge/-ios-181717?style=flat-square&logo=apple)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white)
-
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=react&logoColor=white)
