@@ -9,6 +9,14 @@
 
 ## ⚡ Technologies
 
+### BlockChain
+![Ethereum](https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp)
+![Solidity](https://soliditylang.org/images/logo.svg)
+![Vyper](https://raw.githubusercontent.com/vyperlang/vyper/master/logo/vyper-logo-transparent.svg?sanitize=true)
+![Hardhat](https://hardhat.org/favicon-32x32.png)
+![Truffle](https://trufflesuite.com/assets/favicon-32x32.png)
+![dapptools]
+
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
