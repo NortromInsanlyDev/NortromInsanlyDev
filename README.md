@@ -26,7 +26,6 @@
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby)
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![styled-components](https://img.shields.io/badge/-styled-components-DB7093?style=flat-square&logo=styled-componets&logoColor=white)
 
 ### Backend
 ![Node.JS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
