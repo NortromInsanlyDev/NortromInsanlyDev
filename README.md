@@ -10,7 +10,7 @@
 ## ⚡ Technologies
 
 ### BlockChain
-![Ethereum](https://ethereum.org/static/a110735dade3f354a46fc2446cd52476/db4de/eth-home-icon.webp)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?style=flat-square&logo=solidity&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Hardhat](https://hardhat.org/favicon-32x32.png)
@@ -24,20 +24,23 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby)
-![NextJS](https://img.shields.io/badge/-Next.JS-000000?style=flat-square&logo=next-dot-js)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![styled-components](https://img.shields.io/badge/-styled-components-DB7093?style=flat-square&logo=styled-componets&logoColor=white)
 
 ### Backend
 ![Node.JS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![NestJs](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=graphql&logoColor=white)
 
 ### Mobile
 ![iOS](https://img.shields.io/badge/-iOS-181717?style=flat-square&logo=apple)
